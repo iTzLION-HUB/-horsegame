@@ -1,0 +1,554 @@
+{
+  "session1": {
+    "race1": {
+      "eventID": 1559,
+      "track": "Bricklane",
+      "weather": "sunny",
+      "time": "Day",
+      "raceDistance": 1000,
+      "P1": 13,
+      "P2": 32,
+      "P3": 3,
+      "P4": 5,
+      "P5": 25,
+      "P6": 33,
+      "P7": 45,
+      "P8": 91,
+      "P9": 9,
+      "P10": 18,
+      "P11": 7,
+      "P12": 22,
+      "P13": 39,
+      "P14": 55,
+      "P15": 21,
+      "P16": 30,
+      "horses": {
+        "horse1": {
+          "name": "Starstruck",
+          "strength": "finisher",
+          "id": 30,
+          "rating": 3,
+          "wins": 4
+        },
+        "horse2": {
+          "name": "Glamourous",
+          "strength": "middle",
+          "id": 3,
+          "rating": 2,
+          "wins": 17
+        },
+        "horse3": {
+          "name": "Jamaica Farewell",
+          "strength": "starter",
+          "id": 5,
+          "rating": 5,
+          "wins": 21
+        },
+        "horse4": {
+          "name": "Dead Ringer",
+          "strength": "finisher",
+          "id": 13,
+          "rating": 4.5,
+          "wins": 17
+        },
+        "horse5": {
+          "name": "Cream Cracker",
+          "strength": "finisher",
+          "id": 55,
+          "rating": 3,
+          "wins": 6
+        },
+        "horse6": {
+          "name": "Dreadlocked",
+          "strength": "starter",
+          "id": 25,
+          "rating": 3.5,
+          "wins": 3
+        },
+        "horse7": {
+          "name": "Orange County",
+          "strength": "starter",
+          "id": 32,
+          "rating": 3.5,
+          "wins": 4
+        },
+        "horse8": {
+          "name": "Teotihuacan",
+          "strength": "finisher",
+          "id": 22,
+          "rating": 4,
+          "wins": 23
+        },
+        "horse9": {
+          "name": "Baron Mainz",
+          "strength": "starter",
+          "id": 45,
+          "rating": 2,
+          "wins": 2
+        },
+        "horse10": {
+          "name": "Aberfelden",
+          "strength": "finisher",
+          "id": 91,
+          "rating": 5,
+          "wins": 25
+        },
+        "horse11": {
+          "name": "Wild Stallion",
+          "strength": "middle",
+          "id": 18,
+          "rating": 4,
+          "wins": 25
+        },
+        "horse12": {
+          "name": "Jingle Bells",
+          "strength": "starter",
+          "id": 9,
+          "rating": 4,
+          "wins": 11
+        },
+        "horse13": {
+          "name": "Britannica",
+          "strength": "starter",
+          "id": 21,
+          "rating": 3,
+          "wins": 1
+        },
+        "horse14": {
+          "name": "Tulip Fantasy",
+          "strength": "finisher",
+          "id": 33,
+          "rating": 3,
+          "wins": 8
+        },
+        "horse15": {
+          "name": "Aurora Blue",
+          "strength": "middle",
+          "id": 7,
+          "rating": 3.5,
+          "wins": 7
+        },
+        "horse16": {
+          "name": "Jane Doe",
+          "strength": "starter",
+          "id": 39,
+          "rating": 3,
+          "wins": 4
+        }
+      }
+    },
+    "race2": {
+      "eventID": 1560,
+      "track": "Valesbury Road",
+      "weather": "overcast",
+      "time": "Night",
+      "raceDistance": 1000,
+      "P1": 11,
+      "P2": 34,
+      "P3": 1,
+      "P4": 7,
+      "P5": 23,
+      "P6": 35,
+      "P7": 43,
+      "P8": 93,
+      "P9": 77,
+      "P10": 20,
+      "P11": 5,
+      "P12": 24,
+      "P13": 37,
+      "P14": 57,
+      "P15": 19,
+      "P16": 32,
+      "horses": {
+        "horse1": {
+          "name": "Overwatch",
+          "strength": "finisher",
+          "id": 77,
+          "rating": 2.5,
+          "wins": 3
+        },
+        "horse2": {
+          "name": "Split Decision",
+          "strength": "starter",
+          "id": 24,
+          "rating": 3,
+          "wins": 8
+        },
+        "horse3": {
+          "name": "Stolen Moments",
+          "strength": "finisher",
+          "id": 37,
+          "rating": 3.5,
+          "wins": 12
+        },
+        "horse4": {
+          "name": "Classy Raptor",
+          "strength": "starter",
+          "id": 11,
+          "rating": 3,
+          "wins": 2
+        },
+        "horse5": {
+          "name": "Blue Skies",
+          "strength": "starter",
+          "id": 19,
+          "rating": 4,
+          "wins": 18
+        },
+        "horse6": {
+          "name": "Green Desire",
+          "strength": "starter",
+          "id": 34,
+          "rating": 4,
+          "wins": 17
+        },
+        "horse7": {
+          "name": "Firestarter",
+          "strength": "starter",
+          "id": 1,
+          "rating": 3.5,
+          "wins": 5
+        },
+        "horse8": {
+          "name": "Aurora Blue",
+          "strength": "middle",
+          "id": 7,
+          "rating": 3.5,
+          "wins": 7
+        },
+        "horse9": {
+          "name": "Pyrenees",
+          "strength": "starter",
+          "id": 23,
+          "rating": 2,
+          "wins": 2
+        },
+        "horse10": {
+          "name": "Kaleidoscope",
+          "strength": "middle",
+          "id": 20,
+          "rating": 3,
+          "wins": 0
+        },
+        "horse11": {
+          "name": "Little Lady",
+          "strength": "starter",
+          "id": 35,
+          "rating": 5,
+          "wins": 28
+        },
+        "horse12": {
+          "name": "Orange County",
+          "strength": "starter",
+          "id": 32,
+          "rating": 3.5,
+          "wins": 4
+        },
+        "horse13": {
+          "name": "Bladerunner",
+          "strength": "starter",
+          "id": 57,
+          "rating": 4.5,
+          "wins": 21
+        },
+        "horse14": {
+          "name": "Scarred Eagle",
+          "strength": "starter",
+          "id": 43,
+          "rating": 3.5,
+          "wins": 10
+        },
+        "horse15": {
+          "name": "Stockholm",
+          "strength": "middle",
+          "id": 93,
+          "rating": 3.5,
+          "wins": 12
+        },
+        "horse16": {
+          "name": "Jamaica Farewell",
+          "strength": "starter",
+          "id": 5,
+          "rating": 5,
+          "wins": 21
+        }
+      }
+    },
+    "race3": {
+      "eventID": 1561,
+      "track": "Valesbury Road",
+      "weather": "raining",
+      "time": "Day",
+      "raceDistance": 1000,
+      "P1": 16,
+      "P2": 39,
+      "P3": 6,
+      "P4": 13,
+      "P5": 29,
+      "P6": 41,
+      "P7": 49,
+      "P8": 99,
+      "P9": 83,
+      "P10": 26,
+      "P11": 11,
+      "P12": 30,
+      "P13": 43,
+      "P14": 63,
+      "P15": 25,
+      "P16": 38,
+      "horses": {
+        "horse1": {
+          "name": "Dead Ringer",
+          "strength": "finisher",
+          "id": 13,
+          "rating": 4.5,
+          "wins": 17
+        },
+        "horse2": {
+          "name": "Claymore",
+          "strength": "finisher",
+          "id": 99,
+          "rating": 3.5,
+          "wins": 5
+        },
+        "horse3": {
+          "name": "Dreadlocked",
+          "strength": "starter",
+          "id": 25,
+          "rating": 3.5,
+          "wins": 3
+        },
+        "horse4": {
+          "name": "Mandrake",
+          "strength": "finisher",
+          "id": 6,
+          "rating": 2.5,
+          "wins": 1
+        },
+        "horse5": {
+          "name": "Spin Doctor",
+          "strength": "finisher",
+          "id": 26,
+          "rating": 2.5,
+          "wins": 0
+        },
+        "horse6": {
+          "name": "Kings Cross",
+          "strength": "middle",
+          "id": 29,
+          "rating": 4,
+          "wins": 20
+        },
+        "horse7": {
+          "name": "Clean Break",
+          "strength": "starter",
+          "id": 41,
+          "rating": 3,
+          "wins": 5
+        },
+        "horse8": {
+          "name": "Cupid Arrow",
+          "strength": "starter",
+          "id": 49,
+          "rating": 2.5,
+          "wins": 2
+        },
+        "horse9": {
+          "name": "Scarred Eagle",
+          "strength": "starter",
+          "id": 43,
+          "rating": 3.5,
+          "wins": 10
+        },
+        "horse10": {
+          "name": "Space Oddity",
+          "strength": "starter",
+          "id": 16,
+          "rating": 4.5,
+          "wins": 20
+        },
+        "horse11": {
+          "name": "Classy Raptor",
+          "strength": "starter",
+          "id": 11,
+          "rating": 3,
+          "wins": 2
+        },
+        "horse12": {
+          "name": "Misty Wind",
+          "strength": "middle",
+          "id": 83,
+          "rating": 3.5,
+          "wins": 13
+        },
+        "horse13": {
+          "name": "Panzer Guard",
+          "strength": "middle",
+          "id": 38,
+          "rating": 2.5,
+          "wins": 3
+        },
+        "horse14": {
+          "name": "Champagne",
+          "strength": "starter",
+          "id": 63,
+          "rating": 3,
+          "wins": 5
+        },
+        "horse15": {
+          "name": "Jane Doe",
+          "strength": "starter",
+          "id": 39,
+          "rating": 3,
+          "wins": 4
+        },
+        "horse16": {
+          "name": "Starstruck",
+          "strength": "finisher",
+          "id": 30,
+          "rating": 3,
+          "wins": 4
+        }
+      }
+    },
+    "race4": {
+      "eventID": 1562,
+      "track": "Valesbury Road",
+      "weather": "overcast",
+      "time": "Day",
+      "raceDistance": 1000,
+      "P1": 23,
+      "P2": 33,
+      "P3": 13,
+      "P4": 7,
+      "P5": 36,
+      "P6": 35,
+      "P7": 56,
+      "P8": 93,
+      "P9": 90,
+      "P10": 20,
+      "P11": 18,
+      "P12": 24,
+      "P13": 50,
+      "P14": 57,
+      "P15": 32,
+      "P16": 68,
+      "horses": {
+
+        "horse1": {
+          "name": "Bullseye",
+          "strength": "middle",
+          "id": 50,
+          "rating": 5,
+          "wins": 20
+        },
+        "horse2": {
+          "name": "Aurora Blue",
+          "strength": "middle",
+          "id": 7,
+          "rating": 3.5,
+          "wins": 7
+        },
+        "horse3": {
+          "name": "Wild Stallion",
+          "strength": "middle",
+          "id": 18,
+          "rating": 4,
+          "wins": 25
+        },
+        "horse4": {
+          "name": "Pyrenees",
+          "strength": "starter",
+          "id": 23,
+          "rating": 2,
+          "wins": 2
+        },
+        "horse5": {
+          "name": "Bladerunner",
+          "strength": "starter",
+          "id": 57,
+          "rating": 4.5,
+          "wins": 21
+        },
+        "horse6": {
+          "name": "Spartacus",
+          "strength": "starter",
+          "id": 36,
+          "rating": 3,
+          "wins": 13
+        },
+        "horse7": {
+          "name": "Little Lady",
+          "strength": "starter",
+          "id": 35,
+          "rating": 5,
+          "wins": 28
+        },
+
+        "horse8": {
+          "name": "Tulip Fantasy",
+          "strength": "finisher",
+          "id": 33,
+          "rating": 3,
+          "wins": 8
+        },
+        "horse9": {
+          "name": "Stockholm",
+          "strength": "middle",
+          "id": 93,
+          "rating": 3.5,
+          "wins": 12
+        },
+        "horse10": {
+          "name": "Sabretooth",
+          "strength": "starter",
+          "id": 90,
+          "rating": 4,
+          "wins": 23
+        },
+        "horse11": {
+          "name": "Orange County",
+          "strength": "starter",
+          "id": 32,
+          "rating": 3.5,
+          "wins": 4
+        },
+        "horse12": {
+          "name": "Kaleidoscope",
+          "strength": "middle",
+          "id": 20,
+          "rating": 3,
+          "wins": 0
+        },
+        "horse13": {
+          "name": "Electric Eye",
+          "strength": "middle",
+          "id": 56,
+          "rating": 3.5,
+          "wins": 16
+        },
+        "horse14": {
+          "name": "Split Decision",
+          "strength": "starter",
+          "id": 24,
+          "rating": 3,
+          "wins": 8
+        },
+        "horse15": {
+          "name": "Sahara Storm",
+          "strength": "finisher",
+          "id": 68,
+          "rating": 4,
+          "wins": 13
+        },
+        "horse16": {
+          "name": "Dead Ringer",
+          "strength": "finisher",
+          "id": 13,
+          "rating": 4.5,
+          "wins": 17
+        }
+      }
+    }
+  }
+}

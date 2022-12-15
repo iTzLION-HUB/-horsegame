@@ -1,0 +1,9 @@
+{
+  "totalDailySessions": 1,
+  "racesPerSession": 3,
+  "gapBetweenRaces": 60,
+  "hourlyGapBetweenSessions": 4,
+  "firstSessionStartTime": 103000,
+  "maxHorses": 5,
+  "minHorses": 5
+}
